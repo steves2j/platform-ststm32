@@ -8,10 +8,10 @@
     "extra_flags": "-DSTM32WL -DSTM32WLxx -DSTM32WLE5xx",
     "f_cpu": "48000000L",
     "framework_extra_flags": {
-      "arduino": "-DUSE_CM4_STARTUP_FILE -DARDUINO_GENERIC_WLE5JCIX"
+      "arduino": "-DUSE_CM4_STARTUP_FILE -DARDUINO_GENERIC_WLE5CCUX"
     },
     "mcu": "stm32wle5jc",
-    "product_line": "STM32WLE5xx",
+    "product_line": "STM32WLE5xx", STM32WLE5CCU6
     "variant": "STM32WLxx/WL54CCU_WL55CCU_WLE4C(8-B-C)U_WLE5C(8-B-C)U"
   },
   "debug": {
